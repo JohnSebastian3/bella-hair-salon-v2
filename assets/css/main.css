@@ -2802,6 +2802,8 @@ input, select, textarea {
 			margin: 0 auto;
 		}
 
+		
+
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
@@ -3325,6 +3327,11 @@ input, select, textarea {
 			}
 
 		}
+
+		
+		/* .wrapper > .narrow {
+			width: 48em;
+		} */
 
 /* Page Wrapper + Menu */
 
