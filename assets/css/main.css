@@ -3847,10 +3847,10 @@ input, select, textarea {
 	}
 
 	.service {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.jpg") !important;
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.jpg") !important;
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.jpg") !important;
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.jpg") !important;
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.avif") !important;
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.avif") !important;
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.avif") !important;
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/serviceBanner.avif") !important;
 	}
 
 	.about{
@@ -3862,10 +3862,10 @@ input, select, textarea {
 
 	.contact {
 
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/logo.jpg") !important;
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/logo.jpg") !important;
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/logo.jpg") !important;
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/logo.jpg") !important;
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/contactBanner.avif") !important;
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/contactBanner.avif") !important;
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/contactBanner.avif") !important;
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/contactBanner.avif") !important;
 	}
 
 		#main > header h2 {
@@ -3926,6 +3926,9 @@ input, select, textarea {
 	}
 
 /* Footer */
+#footer .copyright .no-border {
+	border-left: none;
+}
 
 	#footer {
 		padding: 6em 0 4em 0 ;
