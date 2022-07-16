@@ -2821,13 +2821,13 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			width: 50em;
 			margin: 0 auto;
 		}
 
 		
 
-			@media screen and (max-width: 1280px) {
+			@media screen and (max-width: 1100px) {
 
 				.wrapper > .inner {
 					width: 90%;
