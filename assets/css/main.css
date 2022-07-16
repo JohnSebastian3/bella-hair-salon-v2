@@ -72,6 +72,20 @@ input, select, textarea {
 	appearance: none;
 }
 
+.further-info {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 4em;
+}
+
+.further-info span {
+	display: block;
+	font-weight: bold;
+	font-size: 18pt;
+	/* margin-bottom: 1rem; */
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -4017,10 +4031,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/hair1.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/hair1.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/hair1.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/hair1.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
