@@ -85,7 +85,9 @@ input, select, textarea {
 	font-size: 18pt;
 	/* margin-bottom: 1rem; */
 }
-
+.hours span {
+	display: block;
+}
 /* Basic */
 
 	@-ms-viewport {
