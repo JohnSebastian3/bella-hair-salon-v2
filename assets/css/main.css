@@ -73,7 +73,7 @@ input, select, textarea {
 }
 
 .further-info {
-	width: 50%;
+	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 	margin-bottom: 4em;
@@ -82,7 +82,7 @@ input, select, textarea {
 .further-info span {
 	display: block;
 	font-weight: bold;
-	font-size: 17pt;
+	/* font-size: 17pt; */
 	/* margin-bottom: 1rem; */
 }
 .hours span {
