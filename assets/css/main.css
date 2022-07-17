@@ -128,7 +128,7 @@ tr > td:first-child {
 		/* font-family: "Open Sans", Helvetica, sans-serif; */
 		/* font-family: 'Lato', Helvetica, sans-serif; */
 		font-family: 'Rajdhani', Arial, Helvetica, sans-serif;
-		font-size: 17pt;
+		font-size: 18pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
 		line-height: 1.65em;
@@ -137,7 +137,7 @@ tr > td:first-child {
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -145,7 +145,7 @@ tr > td:first-child {
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -153,7 +153,7 @@ tr > td:first-child {
 		@media screen and (max-width: 736px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 				letter-spacing: 0.0375em;
 			}
 
@@ -2891,7 +2891,8 @@ tr > td:first-child {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				/* color: #c8ece9; */
+				color: #ecfffd;
 			}
 
 			.wrapper.style1 label {
@@ -3055,7 +3056,11 @@ tr > td:first-child {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #ecfffd;
+			}
+
+			.wrapper.style3 ul.features p{
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
