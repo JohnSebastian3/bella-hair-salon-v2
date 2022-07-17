@@ -737,6 +737,8 @@ tr > td:first-child {
 
 					.row.gtr-50.gtr-uniform {
 						margin-top: -0.75em;
+						/* width: 55em; */
+						/* margin: 0 auto; */
 					}
 
 						.row.gtr-50.gtr-uniform > * {
@@ -2158,12 +2160,21 @@ tr > td:first-child {
 			margin: 0 0 2em 0;
 			width: 100%;
 			height: 100%;
+			overflow: hidden;
 		}
 
 			.image.fit img {
 				width: 100%;
 				height: 100%;
+				transition: all 200ms ease-out;
+				/* border: 5px solid rgba(200, 200, 200, 0.3); */
+				border-radius: 10px;
 			}
+
+			/* .image.fit img:hover {
+				transform: scale(1.02);
+				cursor: pointer;
+			} */
 
 /* List */
 
