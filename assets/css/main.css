@@ -326,7 +326,7 @@ tr > td:first-child {
 	.full-img {
 		position: absolute;
 		height: 85%;
-		/* width: auto; */
+		/* width: 50%; */
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%) scale(1);
@@ -336,6 +336,35 @@ tr > td:first-child {
 			transform: translate((-50%, -50%)) scale(1);
 		}
 
+		@media screen and (max-width: 1320px) {
+			.full-img {
+				height: 65%;
+				max-width: 95%;
+
+			}
+		}
+
+		@media screen and (max-width: 1040px) {
+			.full-img {
+				height: 50%;
+				max-width: 95%;
+			}
+		}
+
+		@media screen and (max-width: 800px) {
+			.full-img {
+				height: 40%;
+				max-width: 95%;
+			}
+		}
+
+		@media screen and (max-width: 615px) {
+			.full-img {
+				height: 35%;
+				max-width: 100%;
+			}
+		}
+ 
 /* Row */
 
 	.row {
