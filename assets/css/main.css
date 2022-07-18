@@ -308,7 +308,7 @@ tr > td:first-child {
 		text-align: right;
 	}
 	.modal {
-		background: rgba(0,0,0, 0.8);
+		background: rgba(0,0,0, 0.875);
 		position: fixed;
 		top: 0;
 		left: 0;
