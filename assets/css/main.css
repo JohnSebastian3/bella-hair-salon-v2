@@ -4168,3 +4168,11 @@ img.rounded {
 .centered {
 	text-align: center;
 }
+
+/* .label-social {
+	color:#548aa5;
+} */
+
+.label-social:hover {
+	color:#67aacc;
+}
