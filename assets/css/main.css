@@ -338,7 +338,7 @@ tr > td:first-child {
 
 		@media screen and (max-width: 1320px) {
 			.full-img {
-				height: 65%;
+				height: 70%;
 				max-width: 95%;
 
 			}
@@ -346,21 +346,21 @@ tr > td:first-child {
 
 		@media screen and (max-width: 1040px) {
 			.full-img {
-				height: 50%;
+				height: 60%;
 				max-width: 95%;
 			}
 		}
 
 		@media screen and (max-width: 800px) {
 			.full-img {
-				height: 40%;
+				height: 50%;
 				max-width: 95%;
 			}
 		}
 
 		@media screen and (max-width: 615px) {
 			.full-img {
-				height: 35%;
+				height: 40%;
 				max-width: 100%;
 			}
 		}
