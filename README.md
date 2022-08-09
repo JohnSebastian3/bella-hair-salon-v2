@@ -3,7 +3,7 @@ This is Oceanside Bella Hair Salon, my website for a local client in Long Island
 
 **Link to project:** https://www.bellasalonoceanside.com/
 
-![alt tag](bellahair.png)
+![alt tag](bellalanding.png)
 
 ## How It's Made:
 
