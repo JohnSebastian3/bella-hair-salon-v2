@@ -13,7 +13,6 @@ Made using HTML, CSS, and JavaScript. It is fully responsive on any device, and 
 on mobile.
 
 ## Optimizations
-*(optional)*
 
 Optimizations include improving accesibility such as adding image modals for mobile and larger text, as well as improving loading times of pages 
 by compressing images to reduce file size.
