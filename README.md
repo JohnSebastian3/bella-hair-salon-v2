@@ -23,7 +23,9 @@ During this project, I learned about how to work with a client to meet their dem
 
 
 Credits:
-
+	Design:
+		HTML5 UP - Spectral (https://html5up.net/spectral)
+		
 	Demo Images:
 		Unsplash (unsplash.com)
 
