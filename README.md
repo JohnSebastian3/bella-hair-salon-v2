@@ -9,7 +9,7 @@ This is Oceanside Bella Hair Salon, my website for a local client in Long Island
 
 **Tech used:** HTML, CSS, JavaScript
 
-Made using HTML, CSS, and JavaScript. It is fully responsive on any device, and includes a ocntact form and iamge modals for easier viewing of images 
+Made using HTML, CSS, and JavaScript. It is fully responsive on any device, and includes a contact form and image modals for easier viewing of images 
 on mobile.
 
 ## Optimizations
@@ -23,9 +23,7 @@ During this project, I learned about how to work with a client to meet their dem
 
 
 Credits:
-	Design:
-		HTML5 UP - Spectral (https://html5up.net/spectral)
-		
+
 	Demo Images:
 		Unsplash (unsplash.com)
 
