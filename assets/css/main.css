@@ -4169,6 +4169,16 @@ img.rounded {
 	text-align: center;
 }
 
+.updateMessage {
+	/* border: 3px solid rgba(256, 256, 256, 0.5); */
+	border-bottom: 3px solid rgba(256, 256, 256, 0.5);
+	border-top: 3px solid rgba(256, 256, 256, 0.5);
+	padding: 1rem 2rem;
+}
+.discount {
+	font-size: 1.25em;
+	font-weight: bold;
+}
 /* .label-social {
 	color:#548aa5;
 } */
